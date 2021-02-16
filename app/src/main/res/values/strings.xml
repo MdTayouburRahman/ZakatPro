@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zakat Pro</string>
+    <string name="page_title">যাকাত প্রো</string>
+    <string name="zakatQouts">নিশ্চয়ই সদকাহ্ (যাকাত) হলো- ফকীর, মিসকীন, তৎসংশ্লিষ্ট কর্মচারীদের জন্যে, যাদের চিত্তাকর্ষণ করা হয় তাদের জন্যে, আল্লাহর পথে এবং মুসাফিরদের জন্যে-এটা আল্লাহর বিধান। আল্লাহ্ সর্বজ্ঞ, প্রজ্ঞাময়। (সূরা তাওবাহ্ ৯:৬০)।</string>
+    <string name="nav_open">Navigation Open</string>
+    <string name="nav_close">Navigation Close</string>
+
+    <string name="editText1"> মূল্যবান অলংকার সর্বমোট (সোনা/রূপা/অন্যান্য) বর্তমান বাজার মূল্য।</string>
+    <string name="editText2">বর্তমানে ব্যাংকে জমাকৃত সর্বমোট সম্পদ (টাকায়)</string>
+    <string name="editText3">শেয়ার,সঞ্চয়পত্র,বন্ড,বীমা ইত্যাদির সর্বমোট সম্পদ(টাকায়)</string>
+    <string name="editText4">বৈদেশিক মুদ্রা (বিনিময় হারে টাকা)।</string>
+    <string name="editText5">জমাকৃত মালামাল (পণ্য বিনিময় হারে টাকা )</string>
+    <string name="editText6">জামানত হিসাবে জমাকৃত টাকা (যা ফেরত পাওয়া যাবে)</string>
+    <string name="editText7">পাওনা , ধার প্রদানকৃত টাকা</string>
+    <string name="editText8">অন্যান্য সম্পদ (টাকায়)</string>
+    <string name="editText9">বর্তমানে দেনা/ ঋণ </string>
+</resources>
