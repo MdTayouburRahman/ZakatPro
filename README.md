@@ -2,6 +2,4 @@
 Zakat Pro - যাকাত ক্যালকুলেটর এর মাধ্যমে আপনি খুব সহজে আপনার ব্যাক্তিগত ,ব্যবসায়ীক সম্পদের যাকাত নির্ভুল ভাবে হিসেব করতে পারবেন । দ্বীনি কাজের অংশ হিসাবে অ্যাপটি তৈরী করেছি তাই এই অ্যাপ সম্পূর্ণ বিজ্ঞাপন মুক্ত । আমি আশা করবো এই অ্যাপটি ব্যবহার করে আপনারা নিয়মিত যাকাত দিবেন ।
 অ্যাপটি আপনার বন্ধুদের সাথে শেয়ার করে তাদেরকেও যাকাত দেওয়াতে উৎসায়িত করুন ।
 
-Download it from Google Play Store - https://play.google.com/store/apps/details?id=droidrocks.com.zakatpro 
-
-আমাকে বিকাশ/নগদে পার্সনালি ☕☕☕"চা" খাওয়াতে পারেন - 01717932348 
+Download it from Google Play Store - https://play.google.com/store/apps/details?id=droidrocks.com.zakatpro আপনি চাইলে এই ব্যাবহার করতে পারেন (USE IT FOR FREE)  - +8801717932348 
